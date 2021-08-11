@@ -7,6 +7,6 @@ The options for each are discussed below:
 - Zodiacal light contributions (multiples of the minimum): 1.4, 2.0, 3.0
 - Source: point sources, half-light radius = 0.2", half-light radius = 0.3"
 - S/N: 5, 10, 15, 20, 50
-- 
+
 Exposure times are quantized in multiples of 3 readout frames, with the number of visits/dithers: 1
 You can calculate either the magnitude for an object at a for a given exposure time and a S/N, or the exposure time needed for a given magnitude.
